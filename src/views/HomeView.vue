@@ -11,7 +11,6 @@
         </p>
       </div>
     </section>
-
     <section>
       <div class="hero-content p-4 flex flex-col lg:flex-row items-center mx-auto mt-0 lg:mt-10">
         <div class="image p-4 mt-0 lg:mt-8 lg:w-6/12">
